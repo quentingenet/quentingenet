@@ -2,9 +2,7 @@
 # <center><a rel="noopener noreferrer" target="_blank" href="https://www.quentingenet.fr">Quentin Genet</a></center>
 
 ## Hi there 👋
-
-## About me
-Hello, I'm Quentin, a french developer specialised in web developpement.<br>
+I'm Quentin, a french developer specialised in web developpement.<br>
 I'm interested in GNU/Linux, E-Health, and opensource.<br>
 Currently, i'm working for a french company which develop softwares for french public hospitals.
 
