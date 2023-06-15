@@ -37,7 +37,7 @@ Currently, i'm working for a french company which develop softwares for french p
 ---------------------------------------------------------------------------------------
 
 #### Please have a look on my last personal web development project : 
-# <center><a rel="noopener noreferrer" target="_blank" href="https://gitlab.com/genetquentin/openweighttracker_backend"><strong>OpenWeightTracker</strong></a></center>
+# <center><a rel="noopener noreferrer" target="_blank" href="https://gitlab.com/genetquentin/owt-back"><strong>OpenWeightTracker</strong></a></center>
 
 <center>OpenWeightTracker (OWT)<br>is a free and opensource application under Copyleft.<br>
 This is a simple and easy way to have a look on your  weight !<br>
