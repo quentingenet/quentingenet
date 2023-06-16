@@ -1,11 +1,9 @@
-
-<a href="https://stackoverflow.com/users/11005875/quentin-genet"><img src="https://stackoverflow.com/users/flair/11005875.png" width="208" height="58" theme=clean alt="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ## Hi there 👋
 I'm Quentin, a french developer specialised in web developpement.<br>
 I'm interested in GNU/Linux, E-Health, and opensource.<br>
 Currently, i'm working for a french company which develop softwares for french public hospitals.
-
+<br/>
+<a href="https://stackoverflow.com/users/11005875/quentin-genet"><img src="https://stackoverflow.com/users/flair/11005875.png" width="208" height="58" theme=clean alt="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ## Technicals skills  
 * <strong>BACK-END DEVELOPMENT</strong><br>
  `Java native`<br>
