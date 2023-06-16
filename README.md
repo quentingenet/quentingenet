@@ -1,5 +1,5 @@
 
-# <a rel="noopener noreferrer" target="_blank" href="https://www.quentingenet.fr">Quentin Genet</a><a href="https://stackoverflow.com/users/11005875/quentin-genet"><img src="https://stackoverflow.com/users/flair/11005875.png" width="208" height="58" theme=clean alt="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/11005875/quentin-genet"><img src="https://stackoverflow.com/users/flair/11005875.png" width="208" height="58" theme=clean alt="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## Hi there 👋
 I'm Quentin, a french developer specialised in web developpement.<br>
