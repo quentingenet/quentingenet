@@ -7,6 +7,8 @@ Currently, i'm working for a french company which develop softwares for french p
 * <strong>BACK-END DEVELOPMENT</strong><br>
  `Java native`<br>
 `Spring framework : Spring Boot, Spring Security, Spring Data/JPA`<br>
+`Python`<br>
+`Django framework`<br>
 `Docker and Docker Compose`<br>
 `Maven`<br>
 `STRAPI`<br>
