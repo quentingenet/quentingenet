@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Quentin, a french developer specialised in web developpement.<br>
-I'm interested in GNU/Linux, E-Health, and opensource.<br>
-Currently, i'm working for a french company which develop softwares for french public hospitals.
+I'm Quentin, a French developer specializing in web development. 
+I'm interested in GNU/Linux, eHealth, and open-source software. 
+Currently, I'm working for a French company that develops software for French hospitals
 
 ## Technicals skills  
 * <strong>BACK-END DEVELOPMENT</strong><br>
