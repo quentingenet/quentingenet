@@ -11,10 +11,10 @@ Currently, I'm working for a French company that develops software for French ho
 `Django framework`<br>
 `Docker and Docker Compose`<br>
 `Maven`<br>
-`STRAPI`<br>
+`Strapi CMS`<br>
 
 * <strong>FRONT-END DEVELOPMENT</strong><br>
-`React.JS`<br>
+`React`<br>
 `JavaScript`<br>
 `TypeScript`<br>
 `Html, CSS/SCSS`<br>
@@ -29,7 +29,7 @@ Currently, I'm working for a French company that develops software for French ho
 * <strong>DATABASE MANAGEMENT</strong><br>
 `MariaDB/MySQL`<br>
 `PostgreSQL`<br>
-`Django ORM`
+`Django ORM`<br>
 `Hibernate`<br>
 
 ---------------------------------------------------------------------------------------
