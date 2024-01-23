@@ -5,8 +5,8 @@ Currently, I'm working for a French company that develops software for French ho
 
 ## Technicals skills  
 * <strong>BACK-END DEVELOPMENT</strong><br>
- `Java native`<br>
-`Spring framework : Spring Boot, Spring Security, Spring Data/JPA`<br>
+`Java`<br>
+`Spring Boot framework`<br>
 `Python`<br>
 `Django framework`<br>
 `Docker and Docker Compose`<br>
@@ -22,13 +22,14 @@ Currently, I'm working for a French company that develops software for French ho
 `Bootstrap`<br>
 
 
-* <strong>TESTING (Java)</strong><br>
-`Junit 5`<br>
-`Jacoco`<br>
+* <strong>TESTING</strong><br>
+`Junit `<br>
+`Jest`<br>
 
 * <strong>DATABASE MANAGEMENT</strong><br>
 `MariaDB/MySQL`<br>
 `PostgreSQL`<br>
+`Django ORM`
 `Hibernate`<br>
 
 ---------------------------------------------------------------------------------------
