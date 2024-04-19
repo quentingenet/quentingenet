@@ -37,6 +37,11 @@ Currently, I'm working for a French company that develops software for French ho
 ---------------------------------------------------------------------------------------
 
 #### Please have a look on my last personal web development project : 
+# <center><a rel="noopener noreferrer" target="_blank" href="https://github.com/quentingenet/vinyl_keeper"><strong>Vinyl Keeper</strong></a></center>
+
+<center>Free and open-source, Vinyl Keeper is your go-to solution for managing your vinyl collection.</center>
+<br/>
+
 # <center><a rel="noopener noreferrer" target="_blank" href="https://github.com/quentingenet/open_weight_tracker"><strong>OpenWeightTracker</strong></a></center>
 
 <center>OpenWeightTracker (OWT)<br>is a free and opensource application under Copyleft.<br>
