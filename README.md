@@ -9,7 +9,7 @@ Currently, I'm working for a French company that develops software for French ho
 `Spring Boot framework`<br>
 `Python`<br>
 `FastAPI`<br>
-`Django & DRF framework`<br>
+`Django & DjangoRest frameworks`<br>
 `Docker and Docker Compose`<br>
 `Maven`<br>
 `Strapi CMS`<br>
@@ -31,7 +31,7 @@ Currently, I'm working for a French company that develops software for French ho
 `MariaDB/MySQL`<br>
 `PostgreSQL`<br>
 `Django ORM`<br>
-`SQL Alchemy`<br>
+`SQL Alchemy, Alembic, Pydantic`<br>
 `Hibernate`<br>
 
 ---------------------------------------------------------------------------------------
