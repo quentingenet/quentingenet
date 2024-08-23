@@ -12,10 +12,10 @@ Currently, I'm working for a French company that develops software for French ho
 `Django & DjangoRest frameworks`<br>
 `Docker and Docker Compose`<br>
 `Maven`<br>
-`Strapi CMS`<br>
+`Strapi (Node.js Headless CMS)`<br>
 
 * <strong>FRONT-END DEVELOPMENT</strong><br>
-`React`<br>
+`React & Next.js`<br>
 `JavaScript`<br>
 `TypeScript`<br>
 `Html, CSS/SCSS`<br>
