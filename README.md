@@ -5,11 +5,9 @@ Currently, I'm working for a French company that develops software for French ho
 
 ## Technicals skills  
 * <strong>BACK-END DEVELOPMENT</strong><br>
-`Java`<br>
-`Spring Boot framework`<br>
-`Python`<br>
-`FastAPI`<br>
-`Django & DjangoRest frameworks`<br>
+`Java & Spring Boot framework`<br>
+`Python & FastAPI & Django & DjangoRest frameworks`<br>
+`Rust & Rocket framework`<br>
 `Docker and Docker Compose`<br>
 `Maven`<br>
 `Strapi (Node.js Headless CMS)`<br>
