@@ -6,7 +6,6 @@ Currently, I'm working for a French company that develops software for French ho
 ## Technicals skills  
 * <strong>BACK-END DEVELOPMENT</strong><br>
 `Python & FastAPI & Django & DjangoRest frameworks`<br>
-`Rust & Rocket framework`<br>
 `Java & Spring Boot framework`<br>
 `Docker and Docker Compose`<br>
 `Maven`<br>
@@ -18,7 +17,6 @@ Currently, I'm working for a French company that develops software for French ho
 `TypeScript`<br>
 `Html, CSS/SCSS`<br>
 `Material UI`<br>
-`Bootstrap`<br>
 
 * <strong>TESTING</strong><br>
 `Junit `<br>
@@ -28,7 +26,6 @@ Currently, I'm working for a French company that develops software for French ho
 `MariaDB/MySQL`<br>
 `PostgreSQL`<br>
 `Django ORM, SQL Alchemy, Alembic, Pydantic`<br>
-`Diesel`<br>
 
 ---------------------------------------------------------------------------------------
 
@@ -37,12 +34,6 @@ Currently, I'm working for a French company that develops software for French ho
 # <center><a rel="noopener noreferrer" target="_blank" href="https://github.com/quentingenet/vinylkeeper"><strong>VinylKeeper</strong></a></center>
 
 <center>Free and open-source,<br/> Vinyl Keeper is your go-to solution for effortlessly managing your vinyl collection with fun!</center>
-
-# <center><a rel="noopener noreferrer" target="_blank" href="https://github.com/quentingenet/open_weight_tracker"><strong>OpenWeightTracker</strong></a></center>
-
-<center>OpenWeightTracker (OWT)<br>is a free and opensource application under Copyleft.<br>
-This is a simple and easy way to have a look on your  weight !<br>
-It respect your data, and respect your privacy.</center>
 
 ---------------------------------------------------------------------------------------
 <div align="center"">
