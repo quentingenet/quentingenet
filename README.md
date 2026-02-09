@@ -37,8 +37,6 @@ Currently, I'm working for a French company that develops software for French ho
 
 ---------------------------------------------------------------------------------------
 <div align="center"">
-  <img src="https://github-readme-stats.vercel.app/api?username=quentingenet&show_icons=true&theme=light" alt="Quentin's GitHub stats"/> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentingenet&layout=compact&theme=light" alt="Langages les plus utilisés"/>   <br/>
   <a href="https://stackoverflow.com/users/11005875/quentin-genet"><img src="https://stackoverflow.com/users/flair/11005875.png" width="208" height="58" theme=clean alt="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and        enthusiast programmers" title="profile for Quentin Genet at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 </div>
