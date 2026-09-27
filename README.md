@@ -27,7 +27,7 @@ React / TypeScript · Capacitor · SQLite
 
 ## Find me
 
-[quentingenet.fr](https://quentingenet.fr) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[quentingenet.fr](https://quentingenet.fr) · [LinkedIn](https://www.linkedin.com/in/quentin-genet)
 
 <p align="center">
   <a href="https://stackoverflow.com/users/11005875/quentin-genet">
