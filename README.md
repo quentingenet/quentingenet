@@ -10,6 +10,7 @@ I care about privacy, open source and GNU/Linux: Fedora on my desk, Debian on my
 
 **Front-end:** React, TypeScript, Next.js, Vite, TanStack Query, Material UI, Tailwind CSS, Capacitor<br/>
 **Back-end:** Node.js (Strapi), Python (FastAPI), Java (Spring Boot), REST APIs<br/>
+**Testing:** Unit and integration tests with Vitest (front-end) and pytest (back-end)<br/>
 **Databases:** PostgreSQL, MySQL / MariaDB, SQLite · SQLAlchemy, Alembic, Pydantic<br/>
 **DevOps:** Docker, Docker Compose, Nginx, self-hosting on Raspberry Pi<br/>
 
