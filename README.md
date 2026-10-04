@@ -9,9 +9,9 @@ I care about privacy, open source and GNU/Linux: Fedora on my desk, Debian on my
 ## Tech stack
 
 **Front-end:** React, TypeScript, Next.js, Vite, TanStack Query, Material UI, Tailwind CSS, Capacitor<br/>
-**Back-end:** Node.js (Strapi), Python (FastAPI), Java (Spring Boot), REST APIs<br/>
+**Back-end:** Node.js (NestJS and Strapi), Python (FastAPI), Java (Spring Boot), REST APIs<br/>
 **Testing:** Unit and integration tests with Vitest (front-end) and pytest (back-end)<br/>
-**Databases:** PostgreSQL, MySQL / MariaDB, SQLite · SQLAlchemy, Alembic, Pydantic<br/>
+**Databases:** PostgreSQL, MySQL / MariaDB, Prisma, SQLite · SQLAlchemy, Alembic, Pydantic<br/>
 **DevOps:** Docker, Docker Compose, Nginx, self-hosting on Raspberry Pi<br/>
 
 ## Projects
@@ -25,6 +25,11 @@ React / TypeScript · FastAPI · PostgreSQL · Docker · [Source code](https://g
 
 Android habit tracker, available on Google Play and translated into 7 languages. No server, no account, no tracking: your data stays encrypted on your phone (SQLCipher).
 React / TypeScript · Capacitor · SQLite
+
+### [OpenJobSeekR](https://github.com/quentingenet/openjobseekr)
+
+Local-first job application tracker: computed follow-up dates, response statistics, and an analysis of saved job postings showing which skills employers ask for most. Built with Claude Code, within rules, tests and safeguards I configured.
+React / TypeScript · NestJS · Prisma · PostgreSQL
 
 ## Find me
 
