@@ -2,9 +2,7 @@
 
 Full stack developer based between Paris and Dijon, France. I build web apps with React and TypeScript on the front end, Node.js or FastAPI on the back end, with PostgreSQL and Docker.
 
-I currently work at a French digital health startup, on a prevention app used nationwide by patients and healthcare professionals. Before coding, I spent ten years in healthcare (nursing assistant, then nurse), then worked as an IT project officer at Suez.
-
-I care about privacy, open source and GNU/Linux: Fedora on my desk, Debian on my servers.
+I currently work at a French digital health startup, on a prevention app used nationwide by patients and healthcare professionals.
 
 ## Tech stack
 
